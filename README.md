@@ -1,2 +1,4 @@
-# Minecraft
+**PCL2启动器**
 我的世界存档
+
+解压后直接整个文件拖入PCL2目录下的versions文件夹中
